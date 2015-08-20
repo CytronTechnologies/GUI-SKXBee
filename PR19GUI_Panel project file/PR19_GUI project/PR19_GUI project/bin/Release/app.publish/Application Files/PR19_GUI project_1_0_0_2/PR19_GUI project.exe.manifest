@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="PR19_GUI project.exe" version="1.0.0.2" publicKeyToken="37d682397705616a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="PR19_GUI project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="PR19_GUI project.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="PR19_GUI project.exe" size="47616">
+      <assemblyIdentity name="PR19_GUI project" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2C452Fk/7ROX+0XETi9ndnFQYRs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=Phang-PC\Phang" issuerKeyHash="826957b295b8e8d7794f56661a1eaa63d301536d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>zxc7SmOtK4ZsY7FCYeWR3iDKQTQ=</DigestValue></Reference></SignedInfo><SignatureValue>xZhl0SOs5NbiKWWWD6pzfjfvFjmx1zLVigr3SG8Asg9+d+eJkfl1tZnEksUoNy/L1sZuveDh4gbH5+QpdPJlvXuw8pYbnIfcmiqZYoRoRy6iapagSj3gqRCjSA40ciGcLc/mWxJneB9q4hlFxVy/CmUWZlfqG/aeXP9Xn8A1qeg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>yq9m2iSP6K9kyp0TXK8D40iGEMpU/+bsd3Ppf4izqJputq9r5FcsIqCXeNg85/cCVG3cpVBG8J9S8xverpDH6/F6iIhBE8FBJFq1Pm5J9m6ae2MN73uGq6/Wlt1Bkzl4N9ckkXl8baQ4vaS8pfCSr09qQmLXhdHWMgcjWz+4Wm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3441ca20de91e56142b1636c862bad634a3b17cf" Description="" Url=""><as:assemblyIdentity name="PR19_GUI project.exe" version="1.0.0.2" publicKeyToken="37d682397705616a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Phang-PC\Phang</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>VW4FoehiDrcsKsFJAsg6NyuqZ3U=</DigestValue></Reference></SignedInfo><SignatureValue>xtMtAKSygrS4MU8HJPp2RmutOZ8drpQJgrw7PS6gyl+aOnQku6RkqPU2WIKQoyqjn19MGv+AWoiIXYGMCx+fvge0pRo9P5csbS5aZV3lEc9QtNfEMaeBKVJ2LfSAX3xM4+f5aIMK+BnIP4Gin+Tlsq59Ney2/8MfJwbvwNkHWdQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>yq9m2iSP6K9kyp0TXK8D40iGEMpU/+bsd3Ppf4izqJputq9r5FcsIqCXeNg85/cCVG3cpVBG8J9S8xverpDH6/F6iIhBE8FBJFq1Pm5J9m6ae2MN73uGq6/Wlt1Bkzl4N9ckkXl8baQ4vaS8pfCSr09qQmLXhdHWMgcjWz+4Wm0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQKCMcfnxn+YxEb/KwQlCXlTANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwAUABoAGEAbgBnAC0AUABDAFwAUABoAGEAbgBnMB4XDTExMDcyNTA1MzkyMFoXDTEyMDcyNDExMzkyMFowJzElMCMGA1UEAx4cAFAAaABhAG4AZwAtAFAAQwBcAFAAaABhAG4AZzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAyq9m2iSP6K9kyp0TXK8D40iGEMpU/+bsd3Ppf4izqJputq9r5FcsIqCXeNg85/cCVG3cpVBG8J9S8xverpDH6/F6iIhBE8FBJFq1Pm5J9m6ae2MN73uGq6/Wlt1Bkzl4N9ckkXl8baQ4vaS8pfCSr09qQmLXhdHWMgcjWz+4Wm0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAbUqjgpt130QSc6niTb9ECs8LEpKxxPKqxvai3W0iH8+6m3Tp/8xJYFDWcvQgkjxxUpC9lTKBXO+p3lnGtGUtLEQaXv361WLHrphcFznA7GnHyTnGQBYqG8JeoXBo8NBNk1aKIm9t6Pr9sJ1isoazTsuuFA6PLCD+WAsYiNM/LqQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

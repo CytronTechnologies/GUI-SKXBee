@@ -1,0 +1,17 @@
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\bin\Release\PR19_GUI project.exe.manifest
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\bin\Release\PR19_GUI project.application
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\bin\Release\PR19_GUI project.exe
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\bin\Release\PR19_GUI project.pdb
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\bin\Release\PR19_GUI project.xml
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI_project.PR19GUI.resources
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI_project.Resources.resources
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.vbproj.GenerateResource.Cache
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.exe.manifest
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.application
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.exe
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.xml
+C:\Users\Phang\Desktop\PR19_Xbee project\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.pdb
+C:\Users\Phang\Desktop\Xbee with Microcontroller article\PR19GUI_Panel project file\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.exe
+C:\Users\Phang\Desktop\Xbee with Microcontroller article\PR19GUI_Panel project file\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.xml
+C:\Users\Phang\Desktop\Xbee with Microcontroller article\PR19GUI_Panel project file\PR19_GUI project\PR19_GUI project\obj\Release\PR19_GUI project.pdb
